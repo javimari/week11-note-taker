@@ -25,7 +25,6 @@
   ## Contributing
   add and improve code as necessary
   
-  ## Tests
   
   
   ## Questions
